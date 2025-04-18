@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Charity.API\Charity.Core\bin\Debug\net6.0\Charity.Core.deps.json
+C:\Users\hp\source\repos\Charity.API\Charity.Core\bin\Debug\net6.0\Charity.Core.dll
+C:\Users\hp\source\repos\Charity.API\Charity.Core\bin\Debug\net6.0\Charity.Core.pdb
+C:\Users\hp\source\repos\Charity.API\Charity.Core\obj\Debug\net6.0\Charity.Core.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Charity.API\Charity.Core\obj\Debug\net6.0\Charity.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Charity.API\Charity.Core\obj\Debug\net6.0\Charity.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Charity.API\Charity.Core\obj\Debug\net6.0\Charity.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\Charity.API\Charity.Core\obj\Debug\net6.0\Charity.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Charity.API\Charity.Core\obj\Debug\net6.0\Charity.Core.dll
+C:\Users\hp\source\repos\Charity.API\Charity.Core\obj\Debug\net6.0\refint\Charity.Core.dll
+C:\Users\hp\source\repos\Charity.API\Charity.Core\obj\Debug\net6.0\Charity.Core.pdb
+C:\Users\hp\source\repos\Charity.API\Charity.Core\obj\Debug\net6.0\ref\Charity.Core.dll
+C:\Users\hp\source\repos\Charity.API\Charity.Core\obj\Debug\net6.0\Charity.Core.sourcelink.json
